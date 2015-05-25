@@ -20,6 +20,16 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="D:/AndroidProject/Cotable" value="4297566793400" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
