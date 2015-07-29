@@ -52,7 +52,7 @@
       <component name="PropertiesComponent">
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
-        <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+        <property name="settings.editor.selected.configurable" value="preferences.customizations" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
