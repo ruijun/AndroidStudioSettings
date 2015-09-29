@@ -1,5 +1,5 @@
 <application>
   <component name="TemplateSettings">
-    <defaultShortcut shortcut="ENTER" />
+    <defaultShortcut shortcut="CUSTOM" />
   </component>
 </application>
