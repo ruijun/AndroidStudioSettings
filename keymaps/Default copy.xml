@@ -4,23 +4,23 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="control alt B" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="control alt B" second-keystroke="control M" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" second-keystroke="ctrl m" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
 </keymap>

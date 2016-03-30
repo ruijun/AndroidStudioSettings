@@ -7,7 +7,4 @@
     <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="insertQuotesForAttributeValue" value="false" />
-  </component>
 </application>
